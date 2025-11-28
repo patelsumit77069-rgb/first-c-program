@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
   cout <<"Namaste Dunia" << endl;
- /*/ int a=5;
+  int a=5;
   cout << a << endl;
   char c='a';
   cout << c << endl;
@@ -23,7 +23,7 @@ int main(){
   cout << e << endl;
   float d=2.0/5;
   cout << d <<endl;
- */ int f=5;
+  int f=5;
   int r=6;
   bool first=(f==r);
   cout << first<<endl;
@@ -36,5 +36,6 @@ int main(){
   bool fifth=(f<=r);
   cout << fifth <<endl;
   
+
 
 }
